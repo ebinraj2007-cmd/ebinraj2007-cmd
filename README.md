@@ -16,25 +16,48 @@ I build AI tools from idea to shipped.
 
 Information Systems Management student who learns by building and shipping. Cisco-certified in AI, Cybersecurity, and IT. Currently building NoorDesk v2 and open to AI / automation internships.
 
-🛠️ Tech
+🛠️ Tech I build with
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,java,js,fastapi,sqlite,linux,githubactions,git&perline=10&theme=dark" alt="tech stack" />
+<br/>
+<code>Ollama</code>   <code>Claude API</code>   <code>Prometheus</code>   <code>Grafana</code>   <code>SEO</code>
 
+</div>
 🚀 Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+🛡️ SENTRY
 
-🛡️ SENTRY · live demo — 🏆 award-winning AI cargo-risk scoring (20 min of checks → seconds)
-💬 NoorDesk — offline multilingual AI front desk across 6 channels, 5 languages
-🔒 AccessAudit — flags orphaned & risky system access with one-click fixes
-📈 NMS — AI network monitoring with disk-failure prediction
+🏆 Award-winning AI cargo-risk scoring — fuses scanner images, customs data, and watchlists into one 0–100 score. 20 min of checks → seconds.
 
+▶ Live demo
 
+</td>
+<td width="50%" valign="top">
+💬 NoorDesk
+
+Offline multilingual AI front desk across 6 channels — detects language, tone, and priority, drafts replies in the customer's language. 5 languages.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🔒 AccessAudit
+
+Flags orphaned, excessive, and dormant system access from HR data — one-click revoke/reset with a full audit trail.
+
+</td>
+<td width="50%" valign="top">
+📈 NMS
+
+AI network monitoring for SMEs/MSPs with self-healing automation and a Python disk-failure prediction engine.
+
+</td>
+</tr>
+</table>
 📫 Reach me
 
-Portfolio · LinkedIn · ebinraj2007@gmail.com
+🌐 Portfolio  ·  💼 LinkedIn  ·  ✉️ ebinraj2007@gmail.com
