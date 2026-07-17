@@ -1,12 +1,14 @@
 <!-- ebinraj2007-cmd/ebinraj2007-cmd  ·  Profile README -->
 
+<!-- Animated wave header (Space Grotesk, rendered server-side) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0e0e,60:2b2b2b,100:ff3b30&height=180&section=header&text=Ebin%20Raj&fontSize=64&fontColor=ffffff&fontAlignY=34&desc=AI%20%26%20Automation%20Builder%20·%20Sharjah,%20UAE&descAlignY=54&descSize=16&animation=fadeIn" alt="Ebin Raj" />
+
 <div align="center">
 
-# Hi, I'm Ebin Raj 👋
+<!-- Typing animation in my brand font -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2600&pause=900&color=FF3B30&center=true&vCenter=true&width=620&height=55&lines=I+build+AI+tools;I+ship+them+too;Not+just+demos" alt="I build AI tools, I ship them too" />
 
-**AI &amp; Automation Builder · Sharjah, UAE**
-
-I like turning ideas into working software — and actually shipping them.
+<br/>
 
 <a href="https://ebinraj2007-cmd.github.io"><img src="https://img.shields.io/badge/Portfolio-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/ebin-raj-3b3243366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,92 +16,62 @@ I like turning ideas into working software — and actually shipping them.
 
 </div>
 
----
+> *I build things that actually run, not just demos.*
 
-### 👋 A little about me
+I'm studying Information Systems Management, and I learn by building. Most of what I know came
+from shipping the projects below, breaking them, and fixing them. I made `SENTRY` at the
+Dubai Customs × University of Dubai hackathon, I'm Cisco-certified in **AI**, **Cybersecurity**
+and **IT**, and right now I'm working on `NoorDesk v2`.
 
-I'm an Information Systems Management student who learns by building and shipping real
-tools. I'm Cisco-certified in AI, Cybersecurity, and IT, I built **SENTRY** at the
-Dubai Customs × University of Dubai hackathon, and I'm currently working on **NoorDesk v2**.
+**I'm looking for an AI / automation internship** — my inbox is always open.
 
-**Open to AI / automation internships** — feel free to reach out. 📬
+### `what I use`
 
-### 🛠️ Tech I build with
+<div align="center">
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
-**Frameworks & data**
+### `things I've built`
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+| | |
+|---|---|
+| **🛡️ [SENTRY](https://github.com/ebinraj2007-cmd/sentry)** · [live demo](https://ebinraj2007-cmd.github.io/sentry/)<br/><sub>Scores cargo risk `0–100` from scanner images, customs data and watchlists. What took 20 minutes takes seconds. Built at the Dubai Customs × University of Dubai hackathon.</sub> | **💬 [NoorDesk](https://github.com/ebinraj2007-cmd/noordesk)**<br/><sub>An AI front desk that reads a message in any of `5 languages`, works out the tone and urgency, and writes back in the customer's own language. Runs offline.</sub> |
+| **🔒 [AccessAudit](https://github.com/ebinraj2007-cmd/accessaudit)**<br/><sub>Finds the accounts people still have after they've left, and lets you shut them off in one click — with a full audit trail.</sub> | **📈 [NMS](https://github.com/ebinraj2007-cmd/nms-ai-monitoring)**<br/><sub>Network monitoring that heals itself, and predicts a disk failure before the drive actually dies.</sub> |
 
-**AI**
+<div align="center">
 
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+<sub>Every one of these runs, has tests, and has been through a security pass.</sub>
 
-**Ops & tooling**
+</div>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+<!-- Snake eating my contribution graph — regenerated every 12h by the workflow -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake.svg" />
+</picture>
 
-### 🚀 Projects
+<div align="center">
 
-> Each of these runs, ships with tests, and has been through a security pass.
+**[Portfolio](https://ebinraj2007-cmd.github.io)** · **[LinkedIn](https://linkedin.com/in/ebin-raj-3b3243366)** · `ebinraj2007@gmail.com`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</div>
 
-#### 🛡️ [SENTRY](https://github.com/ebinraj2007-cmd/sentry)
-
-AI cargo-risk scoring that fuses scanner images, customs data, and watchlists into
-one 0–100 score. Turns 20 minutes of manual checks into seconds. Built at the
-**Dubai Customs × University of Dubai hackathon**.
-
-**[▶ Try the live demo](https://ebinraj2007-cmd.github.io/sentry/)**
-
-</td>
-<td width="50%" valign="top">
-
-#### 💬 [NoorDesk](https://github.com/ebinraj2007-cmd/noordesk)
-
-An offline, multilingual AI front desk across 6 channels. It reads a message,
-detects the language, tone, and urgency, and drafts a reply in the customer's own
-language — in 5 languages.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔒 [AccessAudit](https://github.com/ebinraj2007-cmd/accessaudit)
-
-Spots orphaned, excessive, and dormant system access from HR data, then lets you
-revoke or reset it in one click — with a full audit trail.
-
-</td>
-<td width="50%" valign="top">
-
-#### 📈 [NMS](https://github.com/ebinraj2007-cmd/nms-ai-monitoring)
-
-AI network monitoring for small teams and MSPs, with self-healing automation and a
-Python engine that predicts disk failures before they happen.
-
-</td>
-</tr>
-</table>
-
-### 📫 Say hello
-
-I'm always happy to chat about a project, a role, or an idea.
-
-**[🌐 Portfolio](https://ebinraj2007-cmd.github.io)** &nbsp;·&nbsp; **[💼 LinkedIn](https://linkedin.com/in/ebin-raj-3b3243366)** &nbsp;·&nbsp; **✉️ ebinraj2007@gmail.com**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b30,40:2b2b2b,100:0e0e0e&height=110&section=footer" alt="" />
