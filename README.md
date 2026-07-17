@@ -4,42 +4,56 @@ Hi, I'm Ebin Raj 👋
 
 AI & Automation Builder · Sharjah, UAE
 
-I build AI tools from idea to shipped.
+I like turning ideas into working software — and actually shipping them.
 
-<a href="https://ebinraj2007-cmd.github.io"><img src="https://img.shields.io/badge/Portfolio-fb7185?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://ebinraj2007-cmd.github.io"><img src="https://img.shields.io/badge/Portfolio-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/ebin-raj-3b3243366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ebinraj2007@gmail.com"><img src="https://img.shields.io/badge/Email-fb923c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:ebinraj2007@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-🏆 Won the AI Automation Excellence Award at the WEL.X AI Accelerator 2026 for SENTRY.
+👋 A little about me
 
-Information Systems Management student who learns by building and shipping. Cisco-certified in AI, Cybersecurity, and IT. Currently building NoorDesk v2 and open to AI / automation internships.
+I'm an Information Systems Management student who learns by building and shipping real
+tools. I'm Cisco-certified in AI, Cybersecurity, and IT, I built SENTRY at the
+Dubai Customs × University of Dubai hackathon, and I'm currently working on NoorDesk v2.
+
+Open to AI / automation internships — feel free to reach out. 📬
 
 🛠️ Tech I build with
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,java,js,fastapi,sqlite,linux,githubactions,git&perline=10&theme=dark" alt="tech stack" />
-<br/>
-<code>Ollama</code>   <code>Claude API</code>   <code>Prometheus</code>   <code>Grafana</code>   <code>SEO</code>
+<br/><br/>
+
+Ollama   Claude API   Prometheus   Grafana   SEO
 
 </div>
 🚀 Projects
+
+
+Each of these runs, ships with tests, and has been through a security pass.
+
+
 
 <table>
 <tr>
 <td width="50%" valign="top">
 🛡️ SENTRY
 
-🏆 Award-winning AI cargo-risk scoring — fuses scanner images, customs data, and watchlists into one 0–100 score. 20 min of checks → seconds.
+AI cargo-risk scoring that fuses scanner images, customs data, and watchlists into
+one 0–100 score. Turns 20 minutes of manual checks into seconds. Built at the
+Dubai Customs × University of Dubai hackathon.
 
-▶ Live demo
+▶ Try the live demo
 
 </td>
 <td width="50%" valign="top">
 💬 NoorDesk
 
-Offline multilingual AI front desk across 6 channels — detects language, tone, and priority, drafts replies in the customer's language. 5 languages.
+An offline, multilingual AI front desk across 6 channels. It reads a message,
+detects the language, tone, and urgency, and drafts a reply in the customer's own
+language — in 5 languages.
 
 </td>
 </tr>
@@ -47,11 +61,25 @@ Offline multilingual AI front desk across 6 channels — detects language, tone,
 <td width="50%" valign="top">
 🔒 AccessAudit
 
-Flags orphaned, excessive, and dormant system access from HR data — one-click revoke/reset with a full audit trail.
+Spots orphaned, excessive, and dormant system access from HR data, then lets you
+revoke or reset it in one click — with a full audit trail.
 
 </td>
 <td width="50%" valign="top">
 📈 NMS
+
+AI network monitoring for small teams and MSPs, with self-healing automation and a
+Python engine that predicts disk failures before they happen.
+
+</td>
+</tr>
+</table>
+📫 Say hello
+
+I'm always happy to chat about a project, a role, or an idea.
+
+🌐 Portfolio  ·  💼 LinkedIn  ·  ✉️ ebinraj2007@gmail.com
+
 
 AI network monitoring for SMEs/MSPs with self-healing automation and a Python disk-failure prediction engine.
 
