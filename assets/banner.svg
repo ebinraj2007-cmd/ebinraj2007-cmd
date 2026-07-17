@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="220" viewBox="0 0 1200 220" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Ebin Raj - AI and Automation Builder - Sharjah UAE">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0b0b"/><stop offset="0.65" stop-color="#161616"/><stop offset="1" stop-color="#241110"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff3b30" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ff3b30" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#ff3b30" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="220"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="220" fill="url(#bg)"/>
+
+    <!-- drifting dot grid -->
+    <g opacity="0.16" fill="#ffffff">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="36 0" dur="9s" repeatCount="indefinite"/>
+      <g id="d">
+        <circle cx="18" cy="20" r="1.5"/><circle cx="54" cy="20" r="1.5"/><circle cx="90" cy="20" r="1.5"/>
+        <circle cx="18" cy="56" r="1.5"/><circle cx="54" cy="56" r="1.5"/><circle cx="90" cy="56" r="1.5"/>
+        <circle cx="18" cy="92" r="1.5"/><circle cx="54" cy="92" r="1.5"/><circle cx="90" cy="92" r="1.5"/>
+        <circle cx="18" cy="128" r="1.5"/><circle cx="54" cy="128" r="1.5"/><circle cx="90" cy="128" r="1.5"/>
+        <circle cx="18" cy="164" r="1.5"/><circle cx="54" cy="164" r="1.5"/><circle cx="90" cy="164" r="1.5"/>
+        <circle cx="18" cy="200" r="1.5"/><circle cx="54" cy="200" r="1.5"/><circle cx="90" cy="200" r="1.5"/>
+      </g>
+      <use href="#d" x="108"/><use href="#d" x="216"/><use href="#d" x="324"/><use href="#d" x="432"/><use href="#d" x="540"/>
+      <use href="#d" x="648"/><use href="#d" x="756"/><use href="#d" x="864"/><use href="#d" x="972"/><use href="#d" x="1080"/>
+    </g>
+
+    <!-- right-side abstract: concentric rings, slow rotate -->
+    <g transform="translate(1010,110)" fill="none" stroke="#ffffff">
+      <circle r="88" stroke-opacity="0.10"/>
+      <g>
+        <circle r="66" stroke-opacity="0.30" stroke-dasharray="2 12"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+      </g>
+      <circle r="42" stroke-opacity="0.10"/>
+      <circle r="5" fill="#ff3b30" stroke="none">
+        <animate attributeName="r" values="5;8;5" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <g stroke="#ff3b30" stroke-opacity="0.5" stroke-width="2">
+        <path d="M0 -88 V -66 M0 66 V 88 M-88 0 H -66 M66 0 H 88"/>
+      </g>
+    </g>
+
+    <!-- ER logo tile -->
+    <g transform="translate(60,66)">
+      <rect width="88" height="88" rx="24" fill="#ffffff"/>
+      <text x="44" y="59" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-weight="800" font-size="34" fill="#0b0b0b">ER</text>
+    </g>
+
+    <!-- name + role -->
+    <text x="172" y="106" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-weight="800" font-size="58" letter-spacing="-1.5" fill="#ffffff">EBIN RAJ</text>
+    <text x="175" y="138" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" letter-spacing="4" fill="#b9b9b9">AI &amp; AUTOMATION BUILDER</text>
+
+    <!-- status -->
+    <circle cx="181" cy="166" r="5" fill="#2ec25f">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.9s" repeatCount="indefinite"/>
+    </circle>
+    <text x="197" y="171" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="2.5" fill="#8f8f8f">OPEN TO INTERNSHIPS · SHARJAH, UAE</text>
+
+    <!-- growing accent bar -->
+    <rect x="172" y="44" width="0" height="4" fill="#ff3b30">
+      <animate attributeName="width" values="0;170;170;0" keyTimes="0;0.35;0.75;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- light sweep -->
+    <rect x="-420" y="0" width="420" height="220" fill="url(#sweep)">
+      <animate attributeName="x" from="-420" to="1200" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect y="216" width="1200" height="4" fill="#ff3b30"/>
+  </g>
+</svg>

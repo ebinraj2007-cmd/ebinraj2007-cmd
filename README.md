@@ -1,13 +1,11 @@
-<!-- ebinraj2007-cmd/ebinraj2007-cmd  ·  Profile README -->
+<!-- ebinraj2007-cmd/ebinraj2007-cmd · Profile README -->
+<!-- All animation is self-hosted in /assets — nothing depends on an outside service. -->
 
-<!-- Animated wave header (Space Grotesk, rendered server-side) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0e0e,60:2b2b2b,100:ff3b30&height=180&section=header&text=Ebin%20Raj&fontSize=64&fontColor=ffffff&fontAlignY=34&desc=AI%20%26%20Automation%20Builder%20%C2%B7%20Sharjah%2C%20UAE&descAlignY=54&descSize=16&animation=fadeIn" alt="Ebin Raj" />
+<img width="100%" src="assets/banner.svg" alt="Ebin Raj — AI & Automation Builder, Sharjah UAE" />
 
-<!-- Typing animation in my brand font — types left to right -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2600&pause=900&color=FF3B30&center=false&vCenter=true&width=620&height=55&lines=I+build+AI+tools;I+ship+them+too;Not+just+demos" alt="I build AI tools, I ship them too" />
+<img width="100%" src="assets/marquee.svg" alt="I build AI tools · I ship them too · Not just demos" />
 
 <div align="center">
-
 
 <a href="https://ebinraj2007-cmd.github.io"><img src="https://img.shields.io/badge/Portfolio-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/ebin-raj-3b3243366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -38,6 +36,7 @@ and **IT**, and right now I'm working on `NoorDesk v2`.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -58,19 +57,21 @@ and **IT**, and right now I'm working on `NoorDesk v2`.
 
 <sub>Every one of these runs, has tests, and has been through a security pass.</sub>
 
+**[Portfolio](https://ebinraj2007-cmd.github.io)** · **[LinkedIn](https://linkedin.com/in/ebin-raj-3b3243366)** · `ebinraj2007@gmail.com`
+
 </div>
 
-<!-- Snake eating my contribution graph — regenerated every 12h by the workflow -->
+<img width="100%" src="assets/marquee.svg" alt="" />
+
+<!--
+  SNAKE ANIMATION — currently off so nothing shows as a broken image.
+  To switch it on:
+    1. Actions tab -> "Generate snake animation" -> Run workflow (one time)
+    2. Wait ~30s for it to finish
+    3. Delete this comment wrapper so the <picture> block below goes live
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake.svg" />
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-
-**[Portfolio](https://ebinraj2007-cmd.github.io)** · **[LinkedIn](https://linkedin.com/in/ebin-raj-3b3243366)** · `ebinraj2007@gmail.com`
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b30,40:2b2b2b,100:0e0e0e&height=110&section=footer" alt="" />
+-->
