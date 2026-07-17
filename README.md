@@ -63,12 +63,6 @@ and **IT**, and right now I'm working on `NoorDesk v2`.
 
 <img width="100%" src="assets/marquee.svg" alt="" />
 
-<!--
-  SNAKE ANIMATION — currently off so nothing shows as a broken image.
-  To switch it on:
-    1. Actions tab -> "Generate snake animation" -> Run workflow (one time)
-    2. Wait ~30s for it to finish
-    3. Delete this comment wrapper so the <picture> block below goes live
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake.svg" />
