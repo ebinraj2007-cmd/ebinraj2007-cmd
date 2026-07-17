@@ -1,14 +1,13 @@
 <!-- ebinraj2007-cmd/ebinraj2007-cmd  ·  Profile README -->
 
 <!-- Animated wave header (Space Grotesk, rendered server-side) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0e0e,60:2b2b2b,100:ff3b30&height=180&section=header&text=Ebin%20Raj&fontSize=64&fontColor=ffffff&fontAlignY=34&desc=AI%20%26%20Automation%20Builder%20·%20Sharjah,%20UAE&descAlignY=54&descSize=16&animation=fadeIn" alt="Ebin Raj" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0e0e,60:2b2b2b,100:ff3b30&height=180&section=header&text=Ebin%20Raj&fontSize=64&fontColor=ffffff&fontAlignY=34&desc=AI%20%26%20Automation%20Builder%20%C2%B7%20Sharjah%2C%20UAE&descAlignY=54&descSize=16&animation=fadeIn" alt="Ebin Raj" />
+
+<!-- Typing animation in my brand font — types left to right -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2600&pause=900&color=FF3B30&center=false&vCenter=true&width=620&height=55&lines=I+build+AI+tools;I+ship+them+too;Not+just+demos" alt="I build AI tools, I ship them too" />
 
 <div align="center">
 
-<!-- Typing animation in my brand font -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2600&pause=900&color=FF3B30&center=true&vCenter=true&width=620&height=55&lines=I+build+AI+tools;I+ship+them+too;Not+just+demos" alt="I build AI tools, I ship them too" />
-
-<br/>
 
 <a href="https://ebinraj2007-cmd.github.io"><img src="https://img.shields.io/badge/Portfolio-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/ebin-raj-3b3243366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
