@@ -79,13 +79,3 @@ Python engine that predicts disk failures before they happen.
 I'm always happy to chat about a project, a role, or an idea.
 
 🌐 Portfolio  ·  💼 LinkedIn  ·  ✉️ ebinraj2007@gmail.com
-
-
-AI network monitoring for SMEs/MSPs with self-healing automation and a Python disk-failure prediction engine.
-
-</td>
-</tr>
-</table>
-📫 Reach me
-
-🌐 Portfolio  ·  💼 LinkedIn  ·  ✉️ ebinraj2007@gmail.com
