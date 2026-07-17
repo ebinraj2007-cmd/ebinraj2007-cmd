@@ -22,13 +22,31 @@ Open to AI / automation internships — feel free to reach out. 📬
 
 🛠️ Tech I build with
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,java,js,fastapi,sqlite,linux,githubactions,git&perline=10&theme=dark" alt="tech stack" />
-<br/><br/>
+Languages
 
-Ollama   Claude API   Prometheus   Grafana   SEO
+Show Image
+Show Image
+Show Image
 
-</div>
+Frameworks & data
+
+Show Image
+Show Image
+
+AI
+
+Show Image
+Show Image
+
+Ops & tooling
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
 🚀 Projects
 
 
