@@ -18,7 +18,8 @@
 I'm studying Information Systems Management, and I learn by building. Most of what I know came
 from shipping the projects below, breaking them, and fixing them. I made `SENTRY` at the
 Dubai Customs × University of Dubai hackathon, I'm Cisco-certified in **AI**, **Cybersecurity**
-and **IT**, and right now I'm working on `NoorDesk v2`.
+and **IT**, and right now I'm building `Barjeel` — a QR scam scanner that runs entirely offline
+on your phone.
 
 **I'm looking for an AI / automation internship** — my inbox is always open.
 
@@ -50,12 +51,15 @@ and **IT**, and right now I'm working on `NoorDesk v2`.
 
 | | |
 |---|---|
-| **🛡️ [SENTRY](https://github.com/ebinraj2007-cmd/sentry)** · [live demo](https://ebinraj2007-cmd.github.io/sentry/)<br/><sub>Scores cargo risk `0–100` from scanner images, customs data and watchlists. What took 20 minutes takes seconds. Built at the Dubai Customs × University of Dubai hackathon.</sub> | **💬 [NoorDesk](https://github.com/ebinraj2007-cmd/noordesk)**<br/><sub>An AI front desk that reads a message in any of `5 languages`, works out the tone and urgency, and writes back in the customer's own language. Runs offline.</sub> |
-| **🔒 [AccessAudit](https://github.com/ebinraj2007-cmd/accessaudit)**<br/><sub>Finds the accounts people still have after they've left, and lets you shut them off in one click — with a full audit trail.</sub> | **📈 [NMS](https://github.com/ebinraj2007-cmd/nms-ai-monitoring)**<br/><sub>Network monitoring that heals itself, and predicts a disk failure before the drive actually dies.</sub> |
+| **🏗️ [Barjeel](https://github.com/ebinraj2007-cmd/barjeel)** · [live app](https://ebinraj2007-cmd.github.io/barjeel/)<br/><sub>Scammers here stick fake QR codes over the real ones on parking meters. Barjeel tells you where a code *actually* leads before anything opens — lookalike Cyrillic domains, punycode, typosquats, subdomain tricks. `20 checks`, `73 tests`, zero dependencies. Never talks to a server, so it works underground with no signal.</sub> | **🛡️ [SENTRY](https://github.com/ebinraj2007-cmd/sentry)** · [live demo](https://ebinraj2007-cmd.github.io/sentry/)<br/><sub>Scores cargo risk `0–100` from scanner images, customs data and watchlists. What took 20 minutes takes seconds. Built at the Dubai Customs × University of Dubai hackathon.</sub> |
+| **💬 [NoorDesk](https://github.com/ebinraj2007-cmd/noordesk)**<br/><sub>An AI front desk that reads a message in any of `5 languages`, works out the tone and urgency, and writes back in the customer's own language. Runs offline.</sub> | **🔒 [AccessAudit](https://github.com/ebinraj2007-cmd/accessaudit)**<br/><sub>Finds the accounts people still have after they've left, and lets you shut them off in one click — with a full audit trail.</sub> |
+| **📈 [NMS](https://github.com/ebinraj2007-cmd/nms-ai-monitoring)**<br/><sub>Network monitoring that heals itself, and predicts a disk failure before the drive actually dies.</sub> | |
 
 <div align="center">
 
 <sub>Every one of these runs, has tests, and has been through a security pass.</sub>
+
+<sub>Cisco — Modern AI · Cybersecurity · IT Essentials  |  IBM SkillsBuild — Cybersecurity Fundamentals  |  Dubai Future Foundation — One Million Prompters</sub>
 
 **[Portfolio](https://ebinraj2007-cmd.github.io)** · **[LinkedIn](https://linkedin.com/in/ebin-raj-3b3243366)** · `ebinraj2007@gmail.com`
 
@@ -63,6 +67,12 @@ and **IT**, and right now I'm working on `NoorDesk v2`.
 
 <img width="100%" src="assets/marquee.svg" alt="" />
 
+<!--
+  SNAKE ANIMATION — currently off so nothing shows as a broken image.
+  To switch it on:
+    1. Actions tab -> "Generate snake animation" -> Run workflow (one time)
+    2. Wait ~30s for it to finish
+    3. Delete this comment wrapper so the <picture> block below goes live
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebinraj2007-cmd/ebinraj2007-cmd/output/github-snake.svg" />
