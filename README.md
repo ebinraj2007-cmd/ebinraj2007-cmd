@@ -34,6 +34,7 @@ on your phone.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -51,13 +52,13 @@ on your phone.
 
 | | |
 |---|---|
-| **🏗️ [Barjeel](https://github.com/ebinraj2007-cmd/barjeel)** · [live app](https://ebinraj2007-cmd.github.io/barjeel/)<br/><sub>Scammers here stick fake QR codes over the real ones on parking meters. Barjeel tells you where a code *actually* leads before anything opens — lookalike Cyrillic domains, punycode, typosquats, subdomain tricks. `20 checks`, `73 tests`, zero dependencies. Never talks to a server, so it works underground with no signal.</sub> | **🛡️ [SENTRY](https://github.com/ebinraj2007-cmd/sentry)** · [live demo](https://ebinraj2007-cmd.github.io/sentry/)<br/><sub>Scores cargo risk `0–100` from scanner images, customs data and watchlists. What took 20 minutes takes seconds. Built at the Dubai Customs × University of Dubai hackathon.</sub> |
-| **💬 [NoorDesk](https://github.com/ebinraj2007-cmd/noordesk)**<br/><sub>An AI front desk that reads a message in any of `5 languages`, works out the tone and urgency, and writes back in the customer's own language. Runs offline.</sub> | **🔒 [AccessAudit](https://github.com/ebinraj2007-cmd/accessaudit)**<br/><sub>Finds the accounts people still have after they've left, and lets you shut them off in one click — with a full audit trail.</sub> |
+| **🏗️ [Barjeel](https://github.com/ebinraj2007-cmd/barjeel)** · [live app](https://ebinraj2007-cmd.github.io/barjeel/)<br/><sub>Scammers here stick fake QR codes over the real ones on parking meters. Barjeel tells you where a code *actually* leads before anything opens — lookalike Cyrillic domains, punycode, typosquats, subdomain tricks. Also spots physical sticker overlays — `3/3` caught with `0` false alarms on a labelled photo set. `100 tests`, zero dependencies. Never talks to a server, so it works underground with no signal.</sub> | **🛡️ [SENTRY](https://github.com/ebinraj2007-cmd/sentry)** · [live demo](https://ebinraj2007-cmd.github.io/sentry/)<br/><sub>Scores cargo risk `0–100` from scanner images, customs data and watchlists. What took 20 minutes takes seconds. Built at the Dubai Customs × University of Dubai hackathon.</sub> |
+| **💬 [NoorDesk](https://github.com/ebinraj2007-cmd/noordesk)**<br/><sub>An AI front desk that reads a message in any of `5 languages`, works out the tone and urgency, and writes back in the customer's own language. Runs offline. Live updates over WebSocket with polling kept as a fallback — both paths in the codebase on purpose. `65 tests`, Dockerised.</sub> | **🔒 [AccessAudit](https://github.com/ebinraj2007-cmd/accessaudit)**<br/><sub>Finds the accounts people still have after they've left, and lets you shut them off in one click — with a full audit trail that survives a container being replaced. Dockerised, non-root.</sub> |
 | **📈 [NMS](https://github.com/ebinraj2007-cmd/nms-ai-monitoring)**<br/><sub>Network monitoring that heals itself, and predicts a disk failure before the drive actually dies.</sub> | |
 
 <div align="center">
 
-<sub>Every one of these runs, has tests, and has been through a security pass.</sub>
+<sub>Every one of these runs, has tests, and has been through a security pass. 210 tests across five repositories.</sub>
 
 <sub>Cisco — Modern AI · Cybersecurity · IT Essentials  |  IBM SkillsBuild — Cybersecurity Fundamentals  |  Dubai Future Foundation — One Million Prompters</sub>
 
