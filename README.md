@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://ebinraj2007-cmd.github.io"><img src="https://img.shields.io/badge/Portfolio-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/ebin-raj-3b3243366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/ebinraj2007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ebinraj2007@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
@@ -62,7 +62,7 @@ on your phone.
 
 <sub>Cisco — Modern AI · Cybersecurity · IT Essentials  |  IBM SkillsBuild — Cybersecurity Fundamentals  |  Dubai Future Foundation — One Million Prompters</sub>
 
-**[Portfolio](https://ebinraj2007-cmd.github.io)** · **[LinkedIn](https://linkedin.com/in/ebin-raj-3b3243366)** · `ebinraj2007@gmail.com`
+**[Portfolio](https://ebinraj2007-cmd.github.io)** · **[LinkedIn](https://linkedin.com/in/ebinraj2007)** · `ebinraj2007@gmail.com`
 
 </div>
 
