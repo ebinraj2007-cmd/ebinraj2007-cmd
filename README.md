@@ -1,7 +1,7 @@
 <!-- ebinraj2007-cmd/ebinraj2007-cmd · Profile README -->
 <!-- All animation is self-hosted in /assets — nothing depends on an outside service. -->
 
-<img width="100%" src="assets/banner.svg" alt="Ebin Raj — AI & Automation Builder, Sharjah UAE" />
+<img width="100%" src="assets/banner.svg" alt="Ebin Raj — Full-Stack & AI Builder, Sharjah UAE" />
 
 <img width="100%" src="assets/marquee.svg" alt="I build AI tools · I ship them too · Not just demos" />
 
@@ -18,8 +18,8 @@
 I'm studying Information Systems Management, and I learn by building. Most of what I know came
 from shipping the projects below, breaking them, and fixing them. I made `SENTRY` at the
 Dubai Customs × University of Dubai hackathon, I'm Cisco-certified in **AI**, **Cybersecurity**
-and **IT**, and right now I'm building `Barjeel` — a QR scam scanner that runs entirely offline
-on your phone.
+and **IT**, and right now I'm building Keel — a CRM/ERP for UAE businesses you customise by
+conversation, and Netherd — a Go monitoring engine with a desktop app.
 
 **I'm looking for an AI / automation internship** — my inbox is always open.
 
