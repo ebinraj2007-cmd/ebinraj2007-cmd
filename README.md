@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://ebinraj2007-cmd.github.io"><img src="https://img.shields.io/badge/Portfolio-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/ebinraj2007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ebinraj2007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ebinraj2007@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
@@ -52,17 +52,17 @@ on your phone.
 
 | | |
 |---|---|
-| **🏗️ [Barjeel](https://github.com/ebinraj2007-cmd/barjeel)** · [live app](https://ebinraj2007-cmd.github.io/barjeel/)<br/><sub>Scammers here stick fake QR codes over the real ones on parking meters. Barjeel tells you where a code *actually* leads before anything opens — lookalike Cyrillic domains, punycode, typosquats, subdomain tricks. Also spots physical sticker overlays — `3/3` caught with `0` false alarms on a labelled photo set. `100 tests`, zero dependencies. Never talks to a server, so it works underground with no signal.</sub> | **🛡️ [SENTRY](https://github.com/ebinraj2007-cmd/sentry)** · [live demo](https://ebinraj2007-cmd.github.io/sentry/)<br/><sub>Scores cargo risk `0–100` from scanner images, customs data and watchlists. What took 20 minutes takes seconds. Built at the Dubai Customs × University of Dubai hackathon.</sub> |
-| **💬 [NoorDesk](https://github.com/ebinraj2007-cmd/noordesk)**<br/><sub>An AI front desk that reads a message in any of `5 languages`, works out the tone and urgency, and writes back in the customer's own language. Runs offline. Live updates over WebSocket with polling kept as a fallback — both paths in the codebase on purpose. `65 tests`, Dockerised.</sub> | **🔒 [AccessAudit](https://github.com/ebinraj2007-cmd/accessaudit)**<br/><sub>Finds the accounts people still have after they've left, and lets you shut them off in one click — with a full audit trail that survives a container being replaced. Dockerised, non-root.</sub> |
+| **🏗️ [Barjeel](https://github.com/ebinraj2007-cmd/barjeel)** · [live app](https://ebinraj2007-cmd.github.io/barjeel/)<br/><sub>Scammers here stick fake QR codes over the real ones on parking meters. Barjeel tells you where a code *actually* leads before anything opens — lookalike Cyrillic domains, punycode, typosquats, subdomain tricks. Also spots physical sticker overlays — `3/3` caught with `0` false alarms on a labelled photo set. `81 tests`, zero dependencies. Never talks to a server, so it works underground with no signal.</sub> | **🛡️ [SENTRY](https://github.com/ebinraj2007-cmd/sentry)** · [live demo](https://ebinraj2007-cmd.github.io/sentry/)<br/><sub>Scores cargo risk `0–100` from scanner images, customs data and watchlists. What took 20 minutes takes seconds. Built at the Dubai Customs × University of Dubai hackathon.</sub> |
+| **💬 [NoorDesk](https://github.com/ebinraj2007-cmd/noordesk)**<br/><sub>An AI front desk that reads a message in any of `5 languages`, works out the tone and urgency, and writes back in the customer's own language. Runs offline. Live updates over WebSocket with polling kept as a fallback — both paths in the codebase on purpose. `67 tests`, Dockerised.</sub> | **🔒 [AccessAudit](https://github.com/ebinraj2007-cmd/accessaudit)**<br/><sub>Finds the accounts people still have after they've left, and lets you shut them off in one click — with a full audit trail that survives a container being replaced. Dockerised, non-root.</sub> |
 | **📈 [NMS](https://github.com/ebinraj2007-cmd/nms-ai-monitoring)**<br/><sub>Network monitoring that heals itself, and predicts a disk failure before the drive actually dies.</sub> | |
 
 <div align="center">
 
-<sub>Every one of these runs, has tests, and has been through a security pass. 210 tests across five repositories.</sub>
+<sub>Every one of these runs, has tests, and has been through a security pass. 193 tests across five repositories.</sub>
 
 <sub>Cisco — Modern AI · Cybersecurity · IT Essentials  |  IBM SkillsBuild — Cybersecurity Fundamentals  |  Dubai Future Foundation — One Million Prompters</sub>
 
-**[Portfolio](https://ebinraj2007-cmd.github.io)** · **[LinkedIn](https://linkedin.com/in/ebinraj2007)** · `ebinraj2007@gmail.com`
+**[Portfolio](https://ebinraj2007-cmd.github.io)** · **[LinkedIn](https://www.linkedin.com/in/ebinraj2007)** · `ebinraj2007@gmail.com`
 
 </div>
 
